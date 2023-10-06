@@ -19,8 +19,6 @@ using namespace metal;
                       uv.y * span - span / 2.0);
     float2 z = float2(0, 0);
 
-//    float2 c = float2(-0.5 + cos(time/2.0) / 20.0, 0.5 + sin(time/2.0) / 20);
-
     float it = 0.0;
     for (int i = 0; i < maxIterations; ++i) {
         z = float2(z.x * z.x - z.y * z.y, 2.0 * z.x * z.y) + c;
