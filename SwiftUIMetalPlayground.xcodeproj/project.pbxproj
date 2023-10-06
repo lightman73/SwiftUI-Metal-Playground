@@ -43,6 +43,8 @@
 		136ECEC22AD0308E0055D186 /* SwiftUIMetalPlaygroundUITestsLaunchTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftUIMetalPlaygroundUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		136ECEC32AD0308E0055D186 /* SwiftUIMetalPlaygroundUITests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftUIMetalPlaygroundUITests.swift; sourceTree = "<group>"; };
 		136ECEC62AD030EC0055D186 /* SwiftUIMetalPlaygroundTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftUIMetalPlaygroundTests.swift; sourceTree = "<group>"; };
+		136ECEC82AD033B50055D186 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		136ECEC92AD033DD0055D186 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		13A583122ACF5FCE00CBD292 /* SwiftUIMetalPlayground.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIMetalPlayground.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13A583222ACF5FCF00CBD292 /* SwiftUIMetalPlaygroundTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIMetalPlaygroundTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		13A5832C2ACF5FCF00CBD292 /* SwiftUIMetalPlaygroundUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIMetalPlaygroundUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -105,6 +107,8 @@
 		13A583092ACF5FCE00CBD292 = {
 			isa = PBXGroup;
 			children = (
+				136ECEC92AD033DD0055D186 /* README.md */,
+				136ECEC82AD033B50055D186 /* LICENSE */,
 				136ECEB52AD02FF90055D186 /* SwiftUIMetalPlayground */,
 				13A583252ACF5FCF00CBD292 /* SwiftUIMetalPlaygroundTests */,
 				136ECEC12AD0308E0055D186 /* SwiftUIMetalPlaygroundUITests */,
